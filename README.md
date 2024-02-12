@@ -58,6 +58,7 @@ _Example:_
 
 ```plaintext
 Detailed example showing the input and the output.
+```
 
 #### XFRA T7 (Pre 24/08/2020)
 
@@ -69,6 +70,8 @@ _Example:_
 
 ```plaintext
 Detailed example showing the input and the output.
+```
+
 
 #### XETR T7 (Pre 24/08/2020)
 
@@ -80,3 +83,4 @@ _Example:_
 
 ```plaintext
 Detailed example showing the input and the output.
+```
