@@ -7,7 +7,7 @@ This document provides detailed descriptions and mapping logic for each of the 5
 - [Introduction](#introduction)
 - [Cash Market Mapping Logics](#cash-market-mapping-logics)
   - [XETRA Classic (Pre 24/08/2020)](#xetra-classic-pre-24082020)
-  - [XFRA T7](#xfra-t7)
+  - [XFRA T7](##xfra-t7-pre-24082020)
   - [XETR T7](#xetr-t7)
   - [...](#)
 - [Changelog](#changelog)
