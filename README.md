@@ -1,38 +1,20 @@
-# RTS 24 Report Field Descriptions
+# Field 1: Example Field Name
 
-This document provides detailed descriptions and mapping logic for each of the 51 fields included in the RTS 24 report. The mapping logic varies depending on the version of the XETRA system in use.
-
-## Table of Contents
-
-- [Field Descriptions](#field-descriptions)
-  - [Field 1: Example Field Name](#field-1-example-field-name)
-  - [Field 2: Example Field Name](#field-2-example-field-name)
-  - [...](#)
-- [Changelog](#changelog)
-
-## Field Descriptions
-
-Each field description includes the field's purpose, input fields, mapping logic for different XETRA versions, output formatting, and an example.
-
-### Field 1: Example Field Name
-
-<details>
-<summary>Description</summary>
+## Description
 
 Detailed description of what this field represents and any relevant information about how it should be interpreted.
 
-</details>
+## Mapping Logic
 
-<details>
-<summary>Mapping Logic</summary>
+### XETRA Classic (Pre 24/08/2020)
 
-#### XETRA Version 1.0 (Date: YYYY-MM-DD)
+#### Input Fields and Mapping Logic
 
-| Input Fields | Mapping Logic | Output Formatting |
-|--------------|---------------|-------------------|
-| Input1, Input2 | Description of how inputs are transformed | Example output |
+- **Input Fields**: Input1, Input2
+- **Mapping Logic**: Description of how inputs are transformed in XETRA Classic.
+- **Output Formatting**: How the output is formatted.
 
-_Example:_
+#### Example for XETRA Classic
 
 ```plaintext
-Detailed example showing the input and the output
+Example showing the input and output specific to XETRA Classic operations.
