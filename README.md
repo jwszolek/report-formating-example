@@ -9,9 +9,6 @@ This document provides detailed descriptions and mapping logic for each of the 5
   - [XETRA Classic (Pre 24/08/2020)](#xetra-classic-pre-24082020)
   - [XFRA T7](#xfra-t7)
   - [XETR T7](#xetr-t7)
-- [Field Descriptions](#field-descriptions)
-  - [Field 1: Example Field Name](#field-1-example-field-name)
-  - [Field 2: Example Field Name](#field-2-example-field-name)
   - [...](#)
 - [Changelog](#changelog)
 
@@ -52,6 +49,28 @@ Detailed description of what this field represents and any relevant information 
 <summary>Mapping Logic</summary>
 
 #### XETRA Classic (Pre 24/08/2020)
+
+| Input Fields | Mapping Logic | Output Formatting |
+|--------------|---------------|-------------------|
+| Input1, Input2 | Description of how inputs are transformed in XETRA Classic | Example output |
+
+_Example:_
+
+```plaintext
+Detailed example showing the input and the output.
+
+#### XFRA T7 (Pre 24/08/2020)
+
+| Input Fields | Mapping Logic | Output Formatting |
+|--------------|---------------|-------------------|
+| Input1, Input2 | Description of how inputs are transformed in XETRA Classic | Example output |
+
+_Example:_
+
+```plaintext
+Detailed example showing the input and the output.
+
+#### XETR T7 (Pre 24/08/2020)
 
 | Input Fields | Mapping Logic | Output Formatting |
 |--------------|---------------|-------------------|
