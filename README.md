@@ -52,7 +52,7 @@ Detailed description of what this field represents and any relevant information 
 
 | Input Fields | Mapping Logic | Output Formatting |
 |--------------|---------------|-------------------|
-| Input1, Input2 | Description of how inputs are transformed in XETRA Classic | Example output |
+| `Input1`, `Input2` | Description of how inputs are transformed in XETRA Classic | Example output |
 
 _Example:_
 
